@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="UTF-8">
-        <title>Exercice 3 part4</title>
+        <meta charset="UTF-8" />
+        <title>Exercice 4 part4</title>
     </head>
     <body>
         <?php
@@ -21,6 +21,7 @@
         }
 
         numb($numb1, $numb2);
+//        Pour appeler la fonction numb
         ?>
     </body>
 </html>
